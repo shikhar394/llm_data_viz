@@ -2,7 +2,7 @@
 Chat with your data to view beautiful visualizations
 
 
-#Author
+# Author
 - Shikhar Sakhuja
 - Charles Javelona
 
